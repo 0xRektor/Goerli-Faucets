@@ -11,6 +11,8 @@ Repo with a list of links for the Goerli Faucet
 4. https://goerli-faucet.pk910.de/
 5. https://goerli-faucet.com/
 6. https://goerli-faucet.slock.it/
+7. https://faucet.quicknode.com/drip
+8. https://www.allthatnode.com/faucet/ethereum.dsrv
 
 
 ## zkSync Era testnet Faucets
