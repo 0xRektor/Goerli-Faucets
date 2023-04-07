@@ -18,3 +18,8 @@ Repo with a list of links for the Goerli Faucet
 ## zkSync Era testnet Faucets
 1. https://portal.zksync.io/faucet
 2. https://zksync-faucet.pk910.de/
+
+## Goerli Base Faucets
+need Coinbase wallet
+1. https://www.coinbase.com/faucets/base-ethereum-goerli-faucet
+2. https://faucet.quicknode.com/drip
