@@ -13,7 +13,7 @@ Repo with a list of links for the Goerli Faucet
 6. https://goerli-faucet.slock.it/
 7. https://faucet.quicknode.com/drip
 8. https://www.allthatnode.com/faucet/ethereum.dsrv
-9. https://alpha.ens.domains/ - +0.25geth if there is an ens domain
+9. https://alpha.ens.domains/  +0.25geth if there is an ens domain
 
 ## zkSync Era testnet Faucets
 1. https://portal.zksync.io/faucet
