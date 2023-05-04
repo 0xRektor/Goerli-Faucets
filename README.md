@@ -14,7 +14,6 @@ Repo with a list of links for the Goerli Faucet
 7. https://faucet.quicknode.com/drip
 8. https://www.allthatnode.com/faucet/ethereum.dsrv
 
-
 ## zkSync Era testnet Faucets
 1. https://portal.zksync.io/faucet
 2. https://zksync-faucet.pk910.de/
@@ -23,3 +22,6 @@ Repo with a list of links for the Goerli Faucet
 need Coinbase wallet
 1. https://www.coinbase.com/faucets/base-ethereum-goerli-faucet
 2. https://faucet.quicknode.com/drip
+
+## Buy via LayerZero
+https://testnetbridge.com/
