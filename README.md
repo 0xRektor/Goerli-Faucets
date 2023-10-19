@@ -15,14 +15,14 @@ Repo with a list of links for the Goerli Faucet
 8. https://www.allthatnode.com/faucet/ethereum.dsrv
 9. https://alpha.ens.domains/  +0.25geth if there is an ens domain
 
-## zkSync Era Goerli Faucets
+## zkSync Era Goerli 
 1. https://portal.zksync.io/faucet
 2. https://zksync-faucet.pk910.de/
 
-## Starknet Goerli Faucet
+## Starknet Goerli 
 https://faucet.goerli.starknet.io/#
 
-## Base Goerli Faucets
+## Base Goerli 
 need Coinbase wallet
 1. https://www.coinbase.com/faucets/base-ethereum-goerli-faucet
 2. https://faucet.quicknode.com/drip
