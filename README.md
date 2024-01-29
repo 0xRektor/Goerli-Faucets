@@ -29,3 +29,5 @@ need Coinbase wallet
 
 ## Buy Goerli via LayerZero
 https://testnetbridge.com/
+
+## здесь могла бы быть ваша реклама
